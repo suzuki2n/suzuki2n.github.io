@@ -48,10 +48,12 @@ perform_classification.py（モデルを実際の画像で実行、画像を分�
 使用シェーダー：Standard<br>
 
 無料配布中（Booth）<br>
-▶ 配布ページはこちら<br>
+▶ [配布ページはこちら](https://suzuki2n.booth.pm/items/3971677)
+はこちら<br>
 
 VRMアバター<br>
 
 VRoid Hubにて公開中<br>
-▶ VRMモデルを見る<br>
+▶ [VRMモデルを見る](https://hub.vroid.com/characters/6889964990498381032/models/4232243861661725226)
+<br>
 
