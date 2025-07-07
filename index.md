@@ -40,3 +40,18 @@ perform_classification.py（モデルを実際の画像で実行、画像を分�
 順次プロジェクト内容を整理し、追加していきます。
 
 
+## 3Dモデル・作品紹介
+3D小道具：琴<br>
+
+フォーマット：FBX形式<br>
+
+使用シェーダー：Standard<br>
+
+無料配布中（Booth）<br>
+▶ 配布ページはこちら<br>
+
+VRMアバター<br>
+
+VRoid Hubにて公開中<br>
+▶ VRMモデルを見る<br>
+
