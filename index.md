@@ -1,3 +1,6 @@
+title: Suzuki2n Portfolio
+layout: default
+
 # ポートフォリオ
 このページは、私が作成したAI・画像分類・3D作品などを紹介するポートフォリオです。<br>
 私は独学でプログラミングを学習しています。Python開発とツール作成において、ChatGPT、Claude、Geminiなどの生成AIを積極的に活用しています。<br><br>
