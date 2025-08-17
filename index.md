@@ -62,9 +62,11 @@ perform_classification.py（モデルを実際の画像で実行、画像を分�
 - 2. cutout_batch.py：YOLOv8-seg 推論 → マスク合成 → 透過 PNG 保存（穴が大きい/マスク無は GrabCut 保険）
 - 3. qc_cutouts.py：面積・端接触・穴・連結成分で ok / review を自動仕分け
 
-
-
-
+![使用ファイル](image.png)
+![コンテナ](image-1.png)
+![前処理](image-2.png)
+![切り抜き（中でYOLO推論も実行）](image-4.png)
+![QC](image-5.png)
 
 
 
