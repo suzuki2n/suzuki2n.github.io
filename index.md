@@ -1,5 +1,8 @@
+---
 title: Suzuki2n Portfolio
 layout: default
+---
+
 
 # ポートフォリオ
 このページは、私が作成したAI・画像分類・3D作品などを紹介するポートフォリオです。<br>
