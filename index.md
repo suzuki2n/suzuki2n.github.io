@@ -13,11 +13,12 @@
 
 ## プロジェクト一覧
 - [犬猫画像分類モデル](https://github.com/suzuki2n/catdog288/tree/main)
-- [猫の自動切り抜き]
+- [猫の自動切り抜き](https://github.com/suzuki2n/YOLO_cats.git)
 
 ## 現在作成中です
 
 ## ディープラーニング画像分類モデル（猫・犬）
+- 目的：犬・猫の2分類を高精度で実現し、学習～評価の実験設計力を身につける。
 - 犬猫分類AIモデル  
 - 使用技術：TensorFlow, CNN, 転移学習（ResNet50 + Fine-tuning）  
 - 精度：精度98.9%
@@ -60,18 +61,14 @@ perform_classification.py（モデルを実際の画像で実行、画像を分�
 ### 手順
 - preprocess.py：小さい画像を拡大、低コントラストを CLAHE で補正
 - cutout_batch.py：YOLOv8-seg 推論 → マスク合成 → 透過 PNG 保存（穴が大きい/マスク無は GrabCut 保険）
-- qc_cutouts.py：面積・端接触・穴・連結成分で ok / review を自動仕分け
+- qc_cutouts.py：品質判定をする。面積・端接触・穴・連結成分で ok / review を自動仕分け
 
-**使用ファイル**  
+#### 使用ファイル
 ![使用ファイル](image.png)
-**コンテナ**  
-![コンテナ](image-1.png)
-**前処理**  
-![前処理](image-2.png)
-**推論切り抜き**  
-![切り抜き（中でYOLO推論も実行）](image-4.png)
-**QC**  
-![QC](image-5.png)
+#### 使い方
+![使い方](image-6.png)
+#### 実行結果
+
 
 ### 残された課題と今後の改善点
 **低コントラスト画像への対応**
@@ -92,6 +89,9 @@ perform_classification.py（モデルを実際の画像で実行、画像を分�
 
 順次プロジェクト内容を整理し、追加していきます。<br>
 
+### ライセンス・権利
+- モデル：Ultralytics を pip 依存／Docker 内で利用（AGPL への配慮として本体配布はしない）。
+- 画像：Kaggle 画像は学習・検証のみ。公開画像 自撮り（飼い猫）画像のみを使用。
 
 ## 3Dモデル・作品紹介
 ### 3D小道具：琴<br>
