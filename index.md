@@ -95,7 +95,7 @@ perform_classification.py（モデルを実際の画像で実行、画像を分�
 
 ### 切り抜き結果
 ![切り抜き結果](image-7.png)
--（飼い猫）画像
+- 飼い猫の画像
 
 ### ライセンス・権利
 - モデル：Ultralytics を pip 依存／Docker 内で利用（AGPL への配慮として本体配布はしない）。
