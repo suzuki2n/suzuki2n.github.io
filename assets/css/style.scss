@@ -1,0 +1,23 @@
+--- ---
+
+/* GitHub関連の表示を非表示 */
+.github-corner,
+.github-fork-ribbon,
+.btn,
+.zip_download_link,
+.tar_download_link {
+    display: none !important;
+}
+
+/* ページヘッダーの調整 */
+.page-header {
+    margin-bottom: 2rem;
+}
+
+.page-header .btn {
+    display: none !important;
+}
+
+.markdown-body>h1>a[href="https://suzuki2n.github.io/"] {
+    display: none !important;
+}
