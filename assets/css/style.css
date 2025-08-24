@@ -1,8 +1,7 @@
 --- ---
 /* ---------- ヘッダーのアカウント名を非表示にする ---------- */
 
-/* よくある候補。実際は検証した要素の class に合わせて一つだけ残してください */
-.site-title,
+
 .page-header .site-title,
 header .site-title,
 .site-header .site-title,
