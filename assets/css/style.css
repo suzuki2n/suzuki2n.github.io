@@ -1,0 +1,21 @@
+--- ---
+/* ---------- ヘッダーのアカウント名を非表示にする（例） ---------- */
+
+/* よくある候補。実際は検証した要素の class に合わせて一つだけ残してください */
+.site-title,
+.page-header .site-title,
+header .site-title,
+.site-header .site-title,
+.header .username,
+.profile-name,
+.author {
+  display: none !important;
+}
+
+/* ヘッダーの余白調整（必要なら） */
+.site-header,
+.page-header,
+header {
+  margin-top: 0;
+  padding-top: 0;
+}
