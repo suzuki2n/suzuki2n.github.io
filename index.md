@@ -1,5 +1,5 @@
 ---
-title: Suzuki2n Portfolio
+title: ""
 layout: default
 ---
 
