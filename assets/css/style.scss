@@ -1,20 +1,13 @@
 --- ---
 
 /* GitHub関連の表示を非表示 */
-.github-corner,
-.github-fork-ribbon,
-.btn,
-.zip_download_link,
-.tar_download_link {
-    display: none !important;
-}
-
-/* ページヘッダーの調整 */
-.page-header {
-    margin-bottom: 2rem;
-}
-
-.page-header .btn {
+.site-title,
+.page-header .site-title,
+header .site-title,
+.site-header .site-title,
+.header .username,
+.profile-name,
+.author {
     display: none !important;
 }
 
