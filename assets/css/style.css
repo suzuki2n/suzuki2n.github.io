@@ -2,19 +2,19 @@
 /* ---------- ヘッダーのアカウント名を非表示にする ---------- */
 
 
-.page-header .site-title,
-header .site-title,
-.site-header .site-title,
-.header .username,
-.profile-name,
-.author {
+.github-corner,
+.github-fork-ribbon,
+.btn,
+.zip_download_link,
+.tar_download_link {
   display: none !important;
 }
 
-/* ヘッダーの余白調整（必要なら） */
-.site-header,
-.page-header,
-header {
-  margin-top: 0;
-  padding-top: 0;
+/* ページヘッダーの調整 */
+.page-header {
+  margin-bottom: 2rem;
+}
+
+.page-header .btn {
+  display: none !important;
 }
