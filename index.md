@@ -110,7 +110,7 @@ Blender、Photoshop、Substance Painter、Unityを使用し、
 UVは全猫で共通化し、テクスチャを差し替えることで毛並みの変更に対応できる構成にしています。
 歯の色や形も1本ずつ調整し、細部の見た目にも配慮しました。
 ![VRChat向け3Dモデル](assets/img/3D/かわいいねこ.png)
-![猫モデル詳細](assets/img/3D/MMDねこpng)
+![猫モデル詳細](assets/img/3D/MMDねこ.png)
 
 ### 3D小道具：琴
 - フォーマット：FBX形式
