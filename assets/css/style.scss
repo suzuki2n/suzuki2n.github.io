@@ -15,30 +15,32 @@ header .site-title,
     display: none !important;
 }
 
-.portfolio-image {
-    max-width: 700px;
-    width: 60%;
+
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(220px, 1fr));
+    gap: 16px;
+    max-width: 900px;
+    margin: 16px auto 24px;
+    align-items: start;
+}
+
+.portfolio-grid img {
+    width: 100%;
     height: auto;
     display: block;
+    border-radius: 8px;
+}
+
+.sub-grid {
+    max-width: 700px;
+}
+
+.portfolio-single {
+    display: block;
+    width: 60%;
+    max-width: 500px;
+    height: auto;
     margin: 16px auto 24px;
-    border-radius: 8px;
-}
-
-img {
-    width: 60% !important;
-    max-width: 500px !important;
-    height: auto !important;
-    display: block;
-    margin: 16px auto 24px !important;
-    border-radius: 8px;
-}
-
-.main-content img,
-img.portfolio-image {
-    width: 60% !important;
-    max-width: 500px !important;
-    height: auto !important;
-    display: block;
-    margin: 16px auto 24px !important;
     border-radius: 8px;
 }
