@@ -14,3 +14,12 @@ header .site-title,
 .markdown-body>h1>a[href="https://suzuki2n.github.io/"] {
     display: none !important;
 }
+
+.portfolio-image {
+    width: 60%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 16px auto 24px;
+    border-radius: 8px;
+}
