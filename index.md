@@ -101,6 +101,58 @@ Blender、Photoshop、Substance Painter、Unityを使用し、
 アバター、小物、ワールド制作の経験があり、
 用途に応じた調整や公開対応も行っていました。
 
+### 企業用制作実績
+VRイベントにて、企業ブース制作、プロップ制作など担当しました。
+VirtualMarketとは来場者がVRChat会場に展示された3Dアバターや3Dモデルなどを自由に試着、鑑賞、購入できる、バーチャル空間最大のマーケットフェスティバルです。
+
+- Vket5担当ブース
+
+頂いた資料を基に、指示に従って作りました。
+限られた広さの中でアバターが問題なく螺旋階段を上ることができつつ資料通りになるよう、各パーツのサイズやバランスに気を使いました。
+<div style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center; align-items:flex-start; margin:16px auto 24px;">
+  <img src="assets/img/3D/pluto.png" alt="企業ブース作成：pluto"
+       style="width:48%; max-width:420px; height:auto; display:block; border-radius:8px;">
+ </div>
+
+- Vket6担当ブース
+
+頂いた資料を基に、指示に従って作りました。商品のモデリングは現物を持っていなかったため、頂いた写真やHPの情報を基に作りました.
+ヘッドセットにはボーンを入れ、アバターの頭に合わせて調節できるようにしています.
+<div style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center; align-items:flex-start; margin:16px auto 24px;">
+  <img src="assets/img/3D/ロジクール.png" alt="企業ブース作成：ロジクール"
+       style="width:48%; max-width:420px; height:auto; display:block; border-radius:8px;">
+  <img src="assets/img/3D/ロジクール2.png" alt="企業ブース作成：ロジクール"
+       style="width:48%; max-width:420px; height:auto; display:block; border-radius:8px;">
+</div>
+<div style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center; align-items:flex-start; margin:16px auto 24px;">
+  <img src="assets/img/3D/ヘッドセット.png" alt="企業ブース作成：ロジクール"
+       style="width:48%; max-width:420px; height:auto; display:block; border-radius:8px;">
+  <img src="assets/img/3D/マウス.png" alt="企業ブース作成：ロジクール"
+       style="width:48%; max-width:420px; height:auto; display:block; border-radius:8px;">
+</div>
+
+- Vket2021担当ブース
+
+ブース本体以外に約20個のプロップを制作しました。作りこむべき所と容量を抑えるために簡略化すべき所を見極め、かつクオリティを保つためのバランスを考えながら作りました。
+<div style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center; align-items:flex-start; margin:16px auto 24px;">
+  <img src="assets/img/3D/玄人志向.png" alt="企業ブース作成：玄人志向"
+       style="width:48%; max-width:420px; height:auto; display:block; border-radius:8px;">
+ </div>
+
+- Vket2022 summer担当モデル
+
+大阪、ニューヨークにて複数制作しました。
+ロッテリアとその周辺のビル、川沿いのビル群、自転車の改変、くいだおれ太郎さんなど。
+
+ニューヨークではタイムズスクエアの階段や、手前にある銅像の台座、出展されている関東のスーパー「ベルク」さんのマスコットキャラクターなどモデリングしました。
+
+<div style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center; align-items:flex-start; margin:16px auto 24px;">
+  <img src="assets/img/3D/制作実績.png" alt="大阪"
+       style="width:48%; max-width:420px; height:auto; display:block; border-radius:8px;">
+  <img src="assets/img/3D/制作実績2.png" alt="ベルク"
+       style="width:48%; max-width:420px; height:auto; display:block; border-radius:8px;">
+</div>
+
 ### 猫モデル
 - 種類：動物モデル
 - 工程：モデリング、ボーン設定、UV調整、テクスチャ差し替え対応
