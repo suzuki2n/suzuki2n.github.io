@@ -109,8 +109,10 @@ Blender、Photoshop、Substance Painter、Unityを使用し、
 猫の柔らかい動きを表現できるよう、回転と移動が可能なボーンを設定しました。
 UVは全猫で共通化し、テクスチャを差し替えることで毛並みの変更に対応できる構成にしています。
 歯の色や形も1本ずつ調整し、細部の見た目にも配慮しました。
-![VRChat向け3Dモデル](assets/img/3D/かわいいねこ.png)
-![猫モデル詳細](assets/img/3D/MMDねこ.png)
+
+<img class="portfolio-image" src="assets/img/3D/かわいいねこ.png" alt="VRChat向け3Dモデル">
+
+<img class="portfolio-image" src="assets/img/3D/MMDねこ.png" alt="猫モデル詳細">
 
 ### 3D小道具：琴
 - フォーマット：FBX形式
